@@ -1,0 +1,15 @@
+# Dépendances et fichiers générés
+/node_modules/
+/dist/
+/.angular/
+/coverage/
+*.tsbuildinfo
+
+# Fichiers locaux
+.DS_Store
+*.log
+/.idea/
+/.vscode/
+.env
+.env.*
+!.env.example
